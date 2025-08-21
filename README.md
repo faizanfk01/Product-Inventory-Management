@@ -35,7 +35,7 @@ This program allows you to **add, view, update, delete, and export products to C
 
 2. Navigate to the project folder:
 
-        cd product-management-system
+        cd Product-Inventory-Management
 
 3. Run the program:
 
