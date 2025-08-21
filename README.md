@@ -31,7 +31,7 @@ This program allows you to **add, view, update, delete, and export products to C
 
 1. Clone the repository:
 
-        git clone https://github.com/yourusername/product-management-system.git
+        https://github.com/faizanfk01/Product-Inventory-Management.git
 
 2. Navigate to the project folder:
 
